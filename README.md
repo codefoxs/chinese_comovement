@@ -3,4 +3,4 @@
 
 不想自己折腾的可以直接去闲鱼购买：
 
-[xianyu](./xianyu.png)
+![xianyu](./xianyu.png)
